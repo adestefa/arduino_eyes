@@ -21,6 +21,7 @@
 #include "Adafruit_LEDBackpack.h"
 #include "Adafruit_GFX.h"
 
+/** create new Adafruit matrix */
 Adafruit_8x8matrix matrix = Adafruit_8x8matrix();
 
 
@@ -35,18 +36,17 @@ void setup() {
 }
 
 void loop() {
- //look_down_right();
- //look_up_right();
- //look_up_left();
-  look_center_small(); 
-  blink_eyes();
+ look_down_right();
+ look_up_right();
+ look_up_left();
+ look_center_small(); 
+ blink_eyes();
   
-  //look_center_right();
-  //look_center_right_max();
-  //look_center_left();
- //look_center_large();
- //look_down_left();
-
+ look_center_right();
+ look_center_right_max();
+ look_center_left();
+ look_center_large();
+ look_down_left();
  delay(100);
 }
 
