@@ -1,6 +1,5 @@
 
 
-
 #define EYE_BALL_CENTER B11100111 
 #define EYE_BALL_LEFT_1 B11110011 
 
@@ -27,7 +26,6 @@ eyes_shut_1_bmp[] = {
 },
 
 eyes_shut_2_bmp[] = {
-  yes_shut_1_bmp[] = {
     B00111100,
     B01111110,
     B01111110,
