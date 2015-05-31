@@ -1,10 +1,6 @@
-arduino_eyes
-============
+# Arduino_eyes
 
-Arduino_eyes
-
-
- A simple Arduino program that animates two 8x8 LED Matrix boards using 8x8AdafruitMatrix library. 
+A simple Arduino program that animates two 8x8 LED Matrix boards using 8x8AdafruitMatrix library. 
 
 I was inspired by a great Adafruit tutorial by Phillip Burgess [Animating Multiple LED backpacks](http://learn.adafruit.com/animating-multiple-led-backpacks). He was able to make an animated face with a voice changer for a Halloween costume with amazing results. After seeing his success I was interested in creating my own pair of electronic eyes.
 
