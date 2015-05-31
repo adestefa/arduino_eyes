@@ -23,4 +23,4 @@ The circuit itself is dead simple. I have to say I really like working with the 
 You can find schematic and full description: http://adestefawp.wordpress.com/projects/led-eyes/comment-page-1/
 
 
-You can find the parts at: //Adafruit.com/
+You can find the parts at: http://Adafruit.com/
